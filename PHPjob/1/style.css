@@ -1,0 +1,57 @@
+.boxBlue{
+  width: 400px;
+  height: 100px;
+  background-color: #141f40;
+  display: flex;
+  justify-content: flex-end;
+}
+.boxWhite{
+  width: 160px;
+  height: 60px;
+  background-color: white;
+  margin-top: 20px;
+  margin-right: 10%;
+  display: flex;
+}
+.boxPink{
+  background-color: #a9004b;
+  width: 40px;
+  height: 40px;
+  margin:auto;
+}
+
+.container{
+  display: flex;
+}
+.boxGreen{
+  width: 150px;
+  height: 250px;
+  background-color: #80bfa8;
+}
+.boxRed{
+  width: 250px;
+  height: 250px;
+  background-color: #8c2727;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
+.boxOrange{
+  width: 140px;
+  height: 40px;
+  background-color: #ff863f;
+  border: solid 5px white;
+  margin-left: 40px;
+  margin-right: 60px;
+}
+#top{
+  margin-top: 40px;
+}
+#bottom{
+  margin-bottom: 40px;
+}
+.boxYellow{
+  width: 400px;
+  height: 100px;
+  background-color: #d98d30;
+}
