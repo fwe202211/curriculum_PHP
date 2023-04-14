@@ -20,7 +20,7 @@ if($number <= 10){
 }else{
   $luck = "残念";
 }
-
+date_default_timezone_set('Asia/Tokyo');
   //⑤今日の日付と、名前、番号、おみくじ結果を表示しましょう
 echo date("Y-m-d H:i:s", time());
 echo "<br>";
